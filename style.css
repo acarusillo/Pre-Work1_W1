@@ -1,0 +1,45 @@
+/* table container */
+.holy-grail-tables {
+    width:100%;
+    border:0;
+    border-collapse:collapse;
+    font: 500 100% system-ui, sans-serif;
+    text-align: center;
+    border: solid 3px aliceblue;
+}
+
+/* table cells */
+.holy-grail-tables .header {
+    padding:16px;
+    background:blue;
+    color: white;
+    border: solid 3px aliceblue;
+
+}
+.holy-grail-tables .left-sidebar {
+    padding:16px;
+    width:25%;
+    background:lightblue;
+    color: white;
+    border: solid 3px aliceblue;
+}
+.holy-grail-tables .main-content {
+    padding:16px;
+    width:50%;
+    background:lightgray;
+    color: white;
+    border: solid 3px aliceblue;
+}
+.holy-grail-tables .right-sidebar {
+    padding:16px;
+    width:25%;
+    background:lightblue;
+    color: white;
+    border: solid 3px aliceblue;
+}
+.holy-grail-tables .footer {
+    padding:16px;
+    background:blue;
+    color: white;
+    border: solid 3px aliceblue;
+}
